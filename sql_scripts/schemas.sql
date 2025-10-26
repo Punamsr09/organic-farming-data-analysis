@@ -1,15 +1,19 @@
 CREATE DATABASE organic_farming_db;
 USE organic_farming_db;
 
+DROP TABLE  funding_data;
+DROP TABLE carbon_monitoring;
 DROP TABLE agriculture_projects;
+
 
 CREATE TABLE agriculture_projects (
 	project_id INT UNSIGNED PRIMARY KEY AUTO_INCREMENT,
 	region VARCHAR(50),
 	crop_type VARCHAR(50),
 	area_ha INT,
-	soil_carbon_baseline DECIMAL(4,2),
-	soil_carbon_current DECIMAL(4,2),
+	soil_carbon_baseline FLOAT,
+	soil_carbon_current FLOAT,
+	carbon_gain_tCO2e FLOAT,
 	farmers INT,
 	start_year INT
 );
