@@ -1,0 +1,501 @@
+project_id,funding_source,amount_usd,disbursed_date,purpose,contract_id,disbursed_by,currency
+AG001,RegenFund,101727,2/20/2023,Water Conservation,FND0001,HQ,USD
+AG002,EarthCapital,427122,5/11/2023,Water Conservation,FND0002,Regional Office,EUR
+AG003,EarthCapital,434240,8/3/2023,Soil Health,FND0003,Regional Office,GBP
+AG004,AgriDevBank,147955,3/19/2023,Farmer Training,FND0004,Regional Office,USD
+AG005,GreenClimateFund,390120,4/1/2024,Carbon Credit Prep,FND0005,HQ,GBP
+AG006,GreenClimateFund,481993,12/7/2024,Farmer Training,FND0006,Regional Office,EUR
+AG007,AgriDevBank,356314,11/28/2023,AgriTech Upgrade,FND0007,Regional Office,GBP
+AG008,AgriDevBank,331429,11/19/2023,Soil Health,FND0008,HQ,GBP
+AG009,GreenClimateFund,389048,7/1/2024,Farmer Training,FND0009,Regional Office,EUR
+AG010,NatureBank,456867,3/11/2023,Carbon Credit Prep,FND0010,Partner Org,EUR
+AG011,EcoFinance,486846,7/14/2023,Farmer Training,FND0011,HQ,GBP
+AG012,NatureBank,244179,2/29/2024,Carbon Credit Prep,FND0012,Regional Office,EUR
+AG013,EarthCapital,186294,10/22/2023,Soil Health,FND0013,HQ,GBP
+AG014,EcoFinance,121231,4/8/2024,Farmer Training,FND0014,HQ,USD
+AG015,AgriDevBank,372026,4/30/2023,Soil Health,FND0015,Partner Org,EUR
+AG016,AgriDevBank,126859,5/1/2024,Carbon Credit Prep,FND0016,HQ,USD
+AG017,AgriDevBank,162534,9/24/2024,Carbon Credit Prep,FND0017,Regional Office,EUR
+AG018,EcoFinance,387735,8/26/2024,Farmer Training,FND0018,Regional Office,GBP
+AG019,GreenClimateFund,243072,12/23/2023,Water Conservation,FND0019,Regional Office,GBP
+AG020,RegenFund,333130,7/15/2024,Soil Health,FND0020,HQ,USD
+AG021,NatureBank,189340,5/27/2024,AgriTech Upgrade,FND0021,Partner Org,EUR
+AG022,NatureBank,114939,3/11/2024,Carbon Credit Prep,FND0022,Regional Office,GBP
+AG023,EcoFinance,371491,5/29/2024,Farmer Training,FND0023,HQ,USD
+AG024,NatureBank,475990,8/11/2024,Water Conservation,FND0024,Regional Office,GBP
+AG025,RegenFund,243893,1/20/2024,Soil Health,FND0025,HQ,EUR
+AG026,AgriDevBank,217608,9/13/2024,Carbon Credit Prep,FND0026,Regional Office,USD
+AG027,EarthCapital,250838,3/7/2024,AgriTech Upgrade,FND0027,HQ,EUR
+AG028,RegenFund,402234,9/22/2023,Water Conservation,FND0028,Partner Org,GBP
+AG029,AgriDevBank,401729,5/29/2024,Water Conservation,FND0029,Partner Org,USD
+AG030,GreenClimateFund,172282,1/6/2023,Water Conservation,FND0030,HQ,GBP
+AG031,GreenClimateFund,249610,9/25/2023,Soil Health,FND0031,Regional Office,EUR
+AG032,EcoFinance,440486,9/10/2024,AgriTech Upgrade,FND0032,Partner Org,USD
+AG033,EcoFinance,119105,9/19/2023,Water Conservation,FND0033,Partner Org,USD
+AG034,EarthCapital,205257,5/20/2023,Farmer Training,FND0034,HQ,EUR
+AG035,EcoFinance,239118,2/9/2023,Farmer Training,FND0035,Partner Org,USD
+AG036,GreenClimateFund,324020,10/20/2023,Farmer Training,FND0036,Partner Org,EUR
+AG037,EcoFinance,462440,3/14/2024,Soil Health,FND0037,Regional Office,EUR
+AG038,RegenFund,368833,8/6/2024,Farmer Training,FND0038,Partner Org,USD
+AG039,AgriDevBank,490216,7/16/2023,Soil Health,FND0039,Partner Org,GBP
+AG040,NatureBank,305180,9/13/2024,Soil Health,FND0040,Regional Office,USD
+AG041,RegenFund,210559,11/16/2023,Carbon Credit Prep,FND0041,Regional Office,EUR
+AG042,EcoFinance,479275,1/31/2023,Soil Health,FND0042,Regional Office,GBP
+AG043,RegenFund,211274,11/28/2024,Farmer Training,FND0043,Partner Org,GBP
+AG044,EarthCapital,477766,10/30/2023,Carbon Credit Prep,FND0044,Partner Org,USD
+AG045,GreenClimateFund,176666,4/21/2023,Farmer Training,FND0045,Partner Org,USD
+AG046,NatureBank,112123,7/26/2024,Water Conservation,FND0046,HQ,GBP
+AG047,NatureBank,230957,12/21/2023,Water Conservation,FND0047,HQ,USD
+AG048,NatureBank,227368,1/30/2024,Carbon Credit Prep,FND0048,Partner Org,EUR
+AG049,AgriDevBank,240520,9/14/2024,Carbon Credit Prep,FND0049,Regional Office,GBP
+AG050,RegenFund,434799,8/23/2023,Soil Health,FND0050,HQ,GBP
+AG051,EcoFinance,105623,6/24/2023,Farmer Training,FND0051,HQ,USD
+AG052,NatureBank,176243,1/23/2024,Carbon Credit Prep,FND0052,Regional Office,GBP
+AG053,NatureBank,271519,10/11/2023,Soil Health,FND0053,HQ,USD
+AG054,GreenClimateFund,454718,10/31/2024,Water Conservation,FND0054,Regional Office,USD
+AG055,NatureBank,119780,12/20/2023,Carbon Credit Prep,FND0055,HQ,GBP
+AG056,EcoFinance,119580,3/29/2023,Soil Health,FND0056,HQ,USD
+AG057,NatureBank,341669,3/24/2024,AgriTech Upgrade,FND0057,HQ,EUR
+AG058,RegenFund,251217,7/28/2023,Farmer Training,FND0058,Regional Office,GBP
+AG059,AgriDevBank,189189,3/24/2023,Farmer Training,FND0059,HQ,USD
+AG060,RegenFund,186280,3/12/2023,AgriTech Upgrade,FND0060,Regional Office,USD
+AG061,RegenFund,181609,11/29/2024,Soil Health,FND0061,Regional Office,GBP
+AG062,AgriDevBank,148787,4/9/2023,Water Conservation,FND0062,Regional Office,USD
+AG063,NatureBank,275568,1/2/2023,Soil Health,FND0063,HQ,GBP
+AG064,AgriDevBank,417471,6/25/2024,AgriTech Upgrade,FND0064,HQ,USD
+AG065,EarthCapital,345101,5/1/2023,Carbon Credit Prep,FND0065,Partner Org,EUR
+AG066,EcoFinance,411303,5/10/2023,AgriTech Upgrade,FND0066,Partner Org,EUR
+AG067,RegenFund,185096,6/28/2023,AgriTech Upgrade,FND0067,Regional Office,EUR
+AG068,EarthCapital,281891,9/28/2024,Soil Health,FND0068,Partner Org,USD
+AG069,RegenFund,339244,1/19/2023,Farmer Training,FND0069,HQ,GBP
+AG070,AgriDevBank,111068,9/5/2024,Water Conservation,FND0070,Regional Office,GBP
+AG071,EarthCapital,499869,12/28/2023,AgriTech Upgrade,FND0071,Partner Org,EUR
+AG072,EcoFinance,195331,2/25/2023,Carbon Credit Prep,FND0072,Regional Office,USD
+AG073,NatureBank,350693,7/6/2023,Carbon Credit Prep,FND0073,HQ,GBP
+AG074,GreenClimateFund,161953,1/5/2023,Soil Health,FND0074,HQ,USD
+AG075,NatureBank,393551,10/28/2023,Water Conservation,FND0075,Regional Office,USD
+AG076,AgriDevBank,196511,6/17/2023,Farmer Training,FND0076,Regional Office,EUR
+AG077,RegenFund,431859,10/16/2024,Carbon Credit Prep,FND0077,HQ,USD
+AG078,NatureBank,299746,9/13/2024,Carbon Credit Prep,FND0078,Regional Office,EUR
+AG079,EcoFinance,275855,8/12/2023,Water Conservation,FND0079,Regional Office,GBP
+AG080,NatureBank,329295,7/17/2023,Soil Health,FND0080,Partner Org,GBP
+AG081,GreenClimateFund,332373,3/11/2024,Water Conservation,FND0081,Regional Office,USD
+AG082,EcoFinance,211625,8/24/2024,Farmer Training,FND0082,Regional Office,USD
+AG083,EcoFinance,431343,5/27/2024,Soil Health,FND0083,Partner Org,GBP
+AG084,GreenClimateFund,421596,1/19/2023,Farmer Training,FND0084,Partner Org,USD
+AG085,EcoFinance,254301,9/23/2023,AgriTech Upgrade,FND0085,Regional Office,GBP
+AG086,EcoFinance,477106,6/1/2023,Soil Health,FND0086,Partner Org,GBP
+AG087,EarthCapital,392993,9/20/2023,Water Conservation,FND0087,Regional Office,GBP
+AG088,NatureBank,145668,12/12/2023,Water Conservation,FND0088,HQ,USD
+AG089,RegenFund,464835,6/17/2023,Carbon Credit Prep,FND0089,Regional Office,USD
+AG090,NatureBank,219257,11/26/2023,Carbon Credit Prep,FND0090,HQ,USD
+AG091,AgriDevBank,270970,10/14/2024,Farmer Training,FND0091,Partner Org,EUR
+AG092,RegenFund,132496,6/7/2024,Soil Health,FND0092,Partner Org,EUR
+AG093,RegenFund,209181,9/6/2024,Water Conservation,FND0093,HQ,USD
+AG094,RegenFund,212425,8/21/2024,Soil Health,FND0094,Partner Org,USD
+AG095,GreenClimateFund,302063,3/26/2023,Farmer Training,FND0095,Partner Org,EUR
+AG096,NatureBank,283654,11/4/2024,Soil Health,FND0096,Partner Org,EUR
+AG097,EcoFinance,495883,3/16/2024,Carbon Credit Prep,FND0097,Partner Org,EUR
+AG098,GreenClimateFund,212620,9/12/2024,Carbon Credit Prep,FND0098,Regional Office,USD
+AG099,NatureBank,302610,6/20/2023,Soil Health,FND0099,HQ,USD
+AG100,EarthCapital,113492,1/12/2023,Soil Health,FND0100,Regional Office,USD
+AG101,NatureBank,174631,6/17/2023,Water Conservation,FND0101,HQ,GBP
+AG102,GreenClimateFund,426750,6/16/2023,AgriTech Upgrade,FND0102,Partner Org,EUR
+AG103,GreenClimateFund,252899,6/22/2024,AgriTech Upgrade,FND0103,Regional Office,EUR
+AG104,NatureBank,349143,9/30/2023,Farmer Training,FND0104,HQ,USD
+AG105,EarthCapital,354505,9/17/2023,Soil Health,FND0105,Partner Org,USD
+AG106,RegenFund,186012,5/19/2023,Carbon Credit Prep,FND0106,Regional Office,GBP
+AG107,NatureBank,313286,7/15/2024,Farmer Training,FND0107,HQ,USD
+AG108,EcoFinance,303866,12/25/2024,Farmer Training,FND0108,HQ,USD
+AG109,AgriDevBank,389175,4/15/2024,Soil Health,FND0109,Regional Office,USD
+AG110,EarthCapital,410132,10/18/2024,Farmer Training,FND0110,Partner Org,GBP
+AG111,AgriDevBank,381449,6/26/2023,Soil Health,FND0111,Partner Org,GBP
+AG112,EarthCapital,414308,7/23/2023,Carbon Credit Prep,FND0112,HQ,GBP
+AG113,GreenClimateFund,182888,2/2/2023,AgriTech Upgrade,FND0113,Partner Org,EUR
+AG114,NatureBank,433583,4/21/2023,AgriTech Upgrade,FND0114,HQ,GBP
+AG115,RegenFund,266081,3/14/2023,Farmer Training,FND0115,Partner Org,EUR
+AG116,AgriDevBank,129734,12/14/2024,AgriTech Upgrade,FND0116,Partner Org,USD
+AG117,NatureBank,344573,11/11/2023,Carbon Credit Prep,FND0117,Regional Office,USD
+AG118,EcoFinance,159285,9/6/2024,Water Conservation,FND0118,Regional Office,EUR
+AG119,RegenFund,214255,5/21/2024,Soil Health,FND0119,HQ,EUR
+AG120,AgriDevBank,110283,3/11/2023,Carbon Credit Prep,FND0120,Partner Org,GBP
+AG121,NatureBank,210213,9/29/2023,Farmer Training,FND0121,Regional Office,EUR
+AG122,EcoFinance,455260,3/3/2023,Water Conservation,FND0122,HQ,EUR
+AG123,RegenFund,337359,6/24/2023,Carbon Credit Prep,FND0123,Partner Org,EUR
+AG124,RegenFund,178099,3/2/2023,Water Conservation,FND0124,HQ,EUR
+AG125,EarthCapital,117722,11/23/2024,AgriTech Upgrade,FND0125,Partner Org,USD
+AG126,EcoFinance,480218,9/1/2024,Water Conservation,FND0126,Partner Org,USD
+AG127,EcoFinance,202797,12/17/2023,AgriTech Upgrade,FND0127,Regional Office,EUR
+AG128,NatureBank,156531,10/14/2024,Farmer Training,FND0128,HQ,EUR
+AG129,NatureBank,464989,11/10/2023,Soil Health,FND0129,Partner Org,USD
+AG130,RegenFund,304008,5/30/2024,Carbon Credit Prep,FND0130,Partner Org,GBP
+AG131,NatureBank,477782,8/6/2023,Soil Health,FND0131,Partner Org,EUR
+AG132,EarthCapital,252212,5/30/2024,Soil Health,FND0132,HQ,GBP
+AG133,RegenFund,167178,7/31/2024,Soil Health,FND0133,Regional Office,USD
+AG134,EarthCapital,377072,10/22/2023,Water Conservation,FND0134,HQ,EUR
+AG135,EcoFinance,181919,9/30/2023,Water Conservation,FND0135,HQ,USD
+AG136,EarthCapital,203117,12/2/2024,Carbon Credit Prep,FND0136,Partner Org,GBP
+AG137,NatureBank,393396,8/25/2023,Farmer Training,FND0137,HQ,USD
+AG138,EcoFinance,304509,4/27/2024,Farmer Training,FND0138,Partner Org,EUR
+AG139,RegenFund,353744,4/7/2024,Soil Health,FND0139,Regional Office,USD
+AG140,NatureBank,245828,3/31/2023,Carbon Credit Prep,FND0140,HQ,GBP
+AG141,EcoFinance,396519,2/19/2024,Farmer Training,FND0141,Partner Org,USD
+AG142,GreenClimateFund,201363,2/23/2023,AgriTech Upgrade,FND0142,Regional Office,EUR
+AG143,NatureBank,391168,9/14/2024,Carbon Credit Prep,FND0143,Regional Office,EUR
+AG144,GreenClimateFund,245165,8/5/2023,Farmer Training,FND0144,Partner Org,GBP
+AG145,EcoFinance,328156,1/19/2024,Water Conservation,FND0145,Regional Office,EUR
+AG146,RegenFund,159926,12/31/2024,Carbon Credit Prep,FND0146,Regional Office,EUR
+AG147,NatureBank,397660,5/1/2023,Water Conservation,FND0147,Partner Org,EUR
+AG148,NatureBank,326029,6/30/2023,Soil Health,FND0148,HQ,GBP
+AG149,AgriDevBank,216715,6/16/2023,Farmer Training,FND0149,Regional Office,GBP
+AG150,GreenClimateFund,174854,4/18/2023,Soil Health,FND0150,Partner Org,EUR
+AG151,AgriDevBank,341987,11/14/2024,Carbon Credit Prep,FND0151,HQ,EUR
+AG152,EarthCapital,220665,12/15/2023,Water Conservation,FND0152,Partner Org,GBP
+AG153,EcoFinance,349747,8/11/2023,AgriTech Upgrade,FND0153,Regional Office,EUR
+AG154,RegenFund,224782,8/17/2023,Water Conservation,FND0154,Partner Org,GBP
+AG155,EcoFinance,334067,6/22/2023,Water Conservation,FND0155,Partner Org,USD
+AG156,RegenFund,294846,1/14/2024,Soil Health,FND0156,HQ,GBP
+AG157,GreenClimateFund,230234,8/24/2023,Farmer Training,FND0157,HQ,USD
+AG158,NatureBank,383029,9/5/2024,AgriTech Upgrade,FND0158,Partner Org,USD
+AG159,GreenClimateFund,100851,2/24/2023,Soil Health,FND0159,HQ,USD
+AG160,AgriDevBank,216772,9/2/2024,Soil Health,FND0160,Partner Org,USD
+AG161,NatureBank,174448,3/28/2023,Soil Health,FND0161,Regional Office,EUR
+AG162,RegenFund,184320,8/29/2024,Water Conservation,FND0162,HQ,USD
+AG163,EcoFinance,174000,6/15/2024,Farmer Training,FND0163,Partner Org,USD
+AG164,EcoFinance,160230,1/9/2023,AgriTech Upgrade,FND0164,HQ,EUR
+AG165,GreenClimateFund,420946,10/9/2024,Water Conservation,FND0165,Regional Office,EUR
+AG166,NatureBank,465791,8/17/2024,Farmer Training,FND0166,Regional Office,GBP
+AG167,RegenFund,355032,10/15/2023,Farmer Training,FND0167,Partner Org,USD
+AG168,AgriDevBank,184345,3/20/2024,Water Conservation,FND0168,Regional Office,USD
+AG169,NatureBank,297353,9/22/2023,Soil Health,FND0169,Partner Org,GBP
+AG170,AgriDevBank,322653,6/12/2023,Farmer Training,FND0170,Regional Office,GBP
+AG171,AgriDevBank,425608,11/29/2023,Farmer Training,FND0171,Regional Office,USD
+AG172,NatureBank,223236,10/29/2023,Carbon Credit Prep,FND0172,HQ,EUR
+AG173,EcoFinance,465042,9/4/2023,Carbon Credit Prep,FND0173,HQ,GBP
+AG174,GreenClimateFund,191811,7/3/2023,Carbon Credit Prep,FND0174,Regional Office,EUR
+AG175,GreenClimateFund,461553,12/12/2024,Water Conservation,FND0175,Regional Office,EUR
+AG176,AgriDevBank,381347,5/25/2024,Water Conservation,FND0176,Partner Org,GBP
+AG177,AgriDevBank,233273,9/11/2024,Water Conservation,FND0177,Regional Office,EUR
+AG178,AgriDevBank,306915,10/14/2024,Soil Health,FND0178,Partner Org,EUR
+AG179,GreenClimateFund,342888,11/1/2023,Farmer Training,FND0179,Partner Org,EUR
+AG180,EcoFinance,319766,3/5/2023,Soil Health,FND0180,HQ,USD
+AG181,EcoFinance,348388,3/5/2023,Farmer Training,FND0181,Regional Office,GBP
+AG182,GreenClimateFund,376719,10/18/2023,AgriTech Upgrade,FND0182,HQ,GBP
+AG183,AgriDevBank,384968,2/8/2023,Farmer Training,FND0183,Partner Org,USD
+AG184,EcoFinance,250896,10/24/2023,Carbon Credit Prep,FND0184,Regional Office,GBP
+AG185,NatureBank,188106,11/3/2024,Water Conservation,FND0185,HQ,EUR
+AG186,NatureBank,275184,11/29/2023,Farmer Training,FND0186,Partner Org,USD
+AG187,EcoFinance,445852,2/23/2023,Water Conservation,FND0187,Partner Org,USD
+AG188,GreenClimateFund,332622,5/29/2023,Farmer Training,FND0188,Regional Office,GBP
+AG189,EcoFinance,389733,12/20/2024,AgriTech Upgrade,FND0189,Partner Org,EUR
+AG190,GreenClimateFund,344703,4/4/2024,Farmer Training,FND0190,HQ,USD
+AG191,RegenFund,373731,4/19/2023,Water Conservation,FND0191,HQ,GBP
+AG192,AgriDevBank,207055,4/15/2024,Carbon Credit Prep,FND0192,Partner Org,USD
+AG193,GreenClimateFund,319862,5/20/2024,AgriTech Upgrade,FND0193,Regional Office,EUR
+AG194,EcoFinance,252449,8/18/2023,AgriTech Upgrade,FND0194,Regional Office,EUR
+AG195,RegenFund,280581,5/8/2023,Carbon Credit Prep,FND0195,Regional Office,USD
+AG196,NatureBank,234797,11/21/2024,AgriTech Upgrade,FND0196,Regional Office,GBP
+AG197,GreenClimateFund,171798,7/29/2024,Farmer Training,FND0197,Regional Office,EUR
+AG198,NatureBank,496045,1/13/2023,Carbon Credit Prep,FND0198,Regional Office,EUR
+AG199,EarthCapital,432111,6/9/2024,Water Conservation,FND0199,Partner Org,USD
+AG200,AgriDevBank,306370,5/2/2024,Farmer Training,FND0200,Partner Org,EUR
+AG201,RegenFund,480905,8/27/2023,Farmer Training,FND0201,Partner Org,EUR
+AG202,EarthCapital,381667,3/16/2023,AgriTech Upgrade,FND0202,Partner Org,GBP
+AG203,AgriDevBank,102354,11/19/2023,Carbon Credit Prep,FND0203,Partner Org,GBP
+AG204,AgriDevBank,377324,2/7/2023,Farmer Training,FND0204,HQ,USD
+AG205,EcoFinance,446943,6/17/2024,Soil Health,FND0205,Partner Org,EUR
+AG206,EarthCapital,283768,5/20/2023,AgriTech Upgrade,FND0206,HQ,EUR
+AG207,NatureBank,402197,8/29/2024,Farmer Training,FND0207,HQ,USD
+AG208,EarthCapital,250724,7/18/2024,Soil Health,FND0208,Regional Office,EUR
+AG209,EarthCapital,157348,4/23/2024,AgriTech Upgrade,FND0209,Partner Org,EUR
+AG210,NatureBank,174328,8/26/2023,Farmer Training,FND0210,Regional Office,GBP
+AG211,RegenFund,197032,3/28/2023,Soil Health,FND0211,Regional Office,EUR
+AG212,AgriDevBank,349386,8/18/2023,AgriTech Upgrade,FND0212,Regional Office,EUR
+AG213,EarthCapital,194838,11/27/2024,Farmer Training,FND0213,Regional Office,USD
+AG214,EarthCapital,228908,12/8/2024,Carbon Credit Prep,FND0214,HQ,GBP
+AG215,EarthCapital,417032,5/14/2024,Farmer Training,FND0215,Partner Org,USD
+AG216,NatureBank,107218,4/23/2024,Farmer Training,FND0216,Regional Office,EUR
+AG217,EcoFinance,469245,4/22/2024,Carbon Credit Prep,FND0217,Partner Org,GBP
+AG218,NatureBank,214996,3/16/2024,AgriTech Upgrade,FND0218,HQ,EUR
+AG219,AgriDevBank,243003,1/2/2023,Water Conservation,FND0219,Partner Org,EUR
+AG220,NatureBank,162905,6/2/2023,Soil Health,FND0220,Regional Office,EUR
+AG221,NatureBank,385084,4/1/2024,Water Conservation,FND0221,HQ,USD
+AG222,EarthCapital,474942,4/9/2024,Carbon Credit Prep,FND0222,Regional Office,EUR
+AG223,EarthCapital,167754,9/3/2023,AgriTech Upgrade,FND0223,HQ,GBP
+AG224,EcoFinance,229946,12/22/2023,Water Conservation,FND0224,Regional Office,EUR
+AG225,AgriDevBank,499128,10/18/2023,AgriTech Upgrade,FND0225,Regional Office,USD
+AG226,NatureBank,119070,9/16/2024,Carbon Credit Prep,FND0226,HQ,USD
+AG227,AgriDevBank,248325,8/4/2023,Soil Health,FND0227,Regional Office,EUR
+AG228,EcoFinance,328690,2/11/2023,Soil Health,FND0228,HQ,EUR
+AG229,EcoFinance,321735,9/11/2023,Water Conservation,FND0229,Regional Office,USD
+AG230,EarthCapital,289236,9/12/2023,Water Conservation,FND0230,Regional Office,USD
+AG231,EcoFinance,411550,8/9/2024,Farmer Training,FND0231,Regional Office,EUR
+AG232,GreenClimateFund,201770,1/31/2023,Carbon Credit Prep,FND0232,HQ,USD
+AG233,GreenClimateFund,406949,7/29/2024,Carbon Credit Prep,FND0233,Regional Office,USD
+AG234,NatureBank,244658,7/15/2023,Soil Health,FND0234,HQ,GBP
+AG235,RegenFund,186472,3/21/2023,Carbon Credit Prep,FND0235,Partner Org,GBP
+AG236,RegenFund,426884,12/31/2024,AgriTech Upgrade,FND0236,HQ,EUR
+AG237,NatureBank,490742,12/30/2024,Soil Health,FND0237,Partner Org,GBP
+AG238,EarthCapital,113887,1/23/2024,Carbon Credit Prep,FND0238,HQ,USD
+AG239,EcoFinance,283266,9/24/2023,Farmer Training,FND0239,Regional Office,USD
+AG240,GreenClimateFund,101258,2/12/2023,AgriTech Upgrade,FND0240,HQ,USD
+AG241,EcoFinance,378746,12/10/2024,Water Conservation,FND0241,Partner Org,EUR
+AG242,EcoFinance,420433,8/31/2023,Carbon Credit Prep,FND0242,Partner Org,GBP
+AG243,EarthCapital,275115,7/9/2024,Soil Health,FND0243,Regional Office,USD
+AG244,EarthCapital,405424,9/29/2024,AgriTech Upgrade,FND0244,Partner Org,EUR
+AG245,RegenFund,356565,5/22/2024,Carbon Credit Prep,FND0245,Partner Org,EUR
+AG246,EarthCapital,303178,9/15/2023,Carbon Credit Prep,FND0246,Regional Office,USD
+AG247,NatureBank,445410,12/27/2024,Carbon Credit Prep,FND0247,Regional Office,USD
+AG248,NatureBank,451002,12/17/2023,Carbon Credit Prep,FND0248,Regional Office,GBP
+AG249,NatureBank,334313,5/3/2024,Soil Health,FND0249,Partner Org,GBP
+AG250,EarthCapital,455107,6/13/2023,Farmer Training,FND0250,HQ,EUR
+AG251,AgriDevBank,283018,12/23/2023,Farmer Training,FND0251,Regional Office,GBP
+AG252,GreenClimateFund,296901,5/4/2024,Farmer Training,FND0252,Partner Org,USD
+AG253,RegenFund,408015,4/2/2023,Farmer Training,FND0253,Regional Office,USD
+AG254,NatureBank,262570,11/18/2023,Water Conservation,FND0254,Regional Office,EUR
+AG255,RegenFund,227374,3/1/2024,AgriTech Upgrade,FND0255,Regional Office,EUR
+AG256,EcoFinance,239786,10/10/2023,Farmer Training,FND0256,Partner Org,USD
+AG257,NatureBank,197875,5/28/2023,Carbon Credit Prep,FND0257,Regional Office,GBP
+AG258,EcoFinance,290091,12/7/2024,Carbon Credit Prep,FND0258,Regional Office,EUR
+AG259,NatureBank,338784,5/15/2024,AgriTech Upgrade,FND0259,Regional Office,GBP
+AG260,RegenFund,498702,8/25/2024,Farmer Training,FND0260,Partner Org,EUR
+AG261,RegenFund,277494,7/18/2024,Farmer Training,FND0261,HQ,GBP
+AG262,NatureBank,480031,12/23/2023,Soil Health,FND0262,Regional Office,GBP
+AG263,EcoFinance,315833,11/12/2024,AgriTech Upgrade,FND0263,Partner Org,USD
+AG264,GreenClimateFund,178473,1/20/2023,Water Conservation,FND0264,Partner Org,EUR
+AG265,AgriDevBank,357152,2/21/2023,AgriTech Upgrade,FND0265,Regional Office,USD
+AG266,RegenFund,415642,7/9/2023,Carbon Credit Prep,FND0266,Partner Org,EUR
+AG267,GreenClimateFund,405873,9/9/2023,Water Conservation,FND0267,Partner Org,USD
+AG268,NatureBank,224747,12/23/2024,AgriTech Upgrade,FND0268,Regional Office,EUR
+AG269,RegenFund,284820,8/2/2023,AgriTech Upgrade,FND0269,Partner Org,USD
+AG270,NatureBank,421890,10/2/2024,Soil Health,FND0270,HQ,USD
+AG271,NatureBank,250896,5/9/2024,Carbon Credit Prep,FND0271,Partner Org,EUR
+AG272,NatureBank,222197,12/27/2023,Carbon Credit Prep,FND0272,HQ,USD
+AG273,AgriDevBank,154498,3/22/2024,AgriTech Upgrade,FND0273,Partner Org,USD
+AG274,NatureBank,405051,11/16/2024,Soil Health,FND0274,Regional Office,USD
+AG275,EarthCapital,356984,7/25/2024,AgriTech Upgrade,FND0275,HQ,GBP
+AG276,AgriDevBank,281256,10/19/2024,Carbon Credit Prep,FND0276,Partner Org,USD
+AG277,GreenClimateFund,185607,8/13/2023,Carbon Credit Prep,FND0277,HQ,EUR
+AG278,NatureBank,435172,4/20/2023,Soil Health,FND0278,HQ,EUR
+AG279,NatureBank,338190,4/30/2023,Carbon Credit Prep,FND0279,HQ,EUR
+AG280,RegenFund,249705,10/7/2023,AgriTech Upgrade,FND0280,HQ,USD
+AG281,NatureBank,142839,10/13/2024,Farmer Training,FND0281,Partner Org,USD
+AG282,EarthCapital,356092,9/25/2024,Farmer Training,FND0282,Partner Org,GBP
+AG283,NatureBank,122528,2/6/2024,Carbon Credit Prep,FND0283,Partner Org,GBP
+AG284,NatureBank,275055,8/8/2024,Water Conservation,FND0284,Regional Office,GBP
+AG285,EarthCapital,443135,5/2/2023,Water Conservation,FND0285,Regional Office,EUR
+AG286,GreenClimateFund,221179,10/30/2024,Soil Health,FND0286,HQ,GBP
+AG287,GreenClimateFund,106160,12/19/2023,AgriTech Upgrade,FND0287,Regional Office,USD
+AG288,EcoFinance,284444,7/14/2024,Farmer Training,FND0288,HQ,USD
+AG289,EarthCapital,398766,5/13/2023,AgriTech Upgrade,FND0289,HQ,EUR
+AG290,NatureBank,290889,10/12/2023,Carbon Credit Prep,FND0290,HQ,USD
+AG291,AgriDevBank,183622,4/5/2024,Farmer Training,FND0291,Partner Org,GBP
+AG292,GreenClimateFund,155480,8/18/2024,Water Conservation,FND0292,HQ,EUR
+AG293,AgriDevBank,383538,4/24/2023,Farmer Training,FND0293,Partner Org,USD
+AG294,GreenClimateFund,385498,12/6/2023,Water Conservation,FND0294,HQ,USD
+AG295,AgriDevBank,260622,3/10/2024,Water Conservation,FND0295,Regional Office,EUR
+AG296,NatureBank,235079,3/6/2024,Water Conservation,FND0296,Partner Org,GBP
+AG297,NatureBank,244191,8/5/2023,Farmer Training,FND0297,Partner Org,GBP
+AG298,EarthCapital,315676,8/17/2024,AgriTech Upgrade,FND0298,Partner Org,EUR
+AG299,GreenClimateFund,412075,4/19/2023,Soil Health,FND0299,Regional Office,USD
+AG300,EcoFinance,374400,6/20/2024,AgriTech Upgrade,FND0300,HQ,EUR
+AG301,NatureBank,421176,10/2/2023,AgriTech Upgrade,FND0301,Regional Office,EUR
+AG302,EcoFinance,473212,7/11/2023,Farmer Training,FND0302,HQ,EUR
+AG303,GreenClimateFund,362004,4/18/2024,Farmer Training,FND0303,Regional Office,EUR
+AG304,AgriDevBank,146347,2/27/2023,Soil Health,FND0304,HQ,EUR
+AG305,EcoFinance,123414,4/16/2023,Farmer Training,FND0305,Partner Org,GBP
+AG306,EcoFinance,383609,1/8/2023,Carbon Credit Prep,FND0306,HQ,GBP
+AG307,EcoFinance,311108,1/1/2024,Soil Health,FND0307,Regional Office,EUR
+AG308,RegenFund,166049,11/1/2024,Water Conservation,FND0308,Regional Office,EUR
+AG309,GreenClimateFund,219126,10/2/2023,Carbon Credit Prep,FND0309,HQ,USD
+AG310,AgriDevBank,119176,11/11/2023,Soil Health,FND0310,Partner Org,USD
+AG311,EcoFinance,400629,3/25/2023,Soil Health,FND0311,Partner Org,EUR
+AG312,NatureBank,371630,4/7/2024,Carbon Credit Prep,FND0312,Regional Office,GBP
+AG313,EcoFinance,141639,2/28/2023,Soil Health,FND0313,Regional Office,USD
+AG314,EarthCapital,388546,8/20/2024,AgriTech Upgrade,FND0314,HQ,EUR
+AG315,RegenFund,206059,10/26/2023,Farmer Training,FND0315,Partner Org,EUR
+AG316,GreenClimateFund,356363,7/27/2023,Soil Health,FND0316,Regional Office,GBP
+AG317,EcoFinance,313346,11/5/2023,Farmer Training,FND0317,Partner Org,GBP
+AG318,GreenClimateFund,225694,11/22/2024,Soil Health,FND0318,HQ,EUR
+AG319,AgriDevBank,313356,3/18/2024,AgriTech Upgrade,FND0319,Regional Office,EUR
+AG320,EarthCapital,456785,2/2/2024,AgriTech Upgrade,FND0320,Partner Org,GBP
+AG321,EarthCapital,235877,9/15/2023,Soil Health,FND0321,Partner Org,USD
+AG322,GreenClimateFund,278179,5/24/2023,Water Conservation,FND0322,Regional Office,GBP
+AG323,EarthCapital,187281,11/3/2023,Water Conservation,FND0323,HQ,USD
+AG324,GreenClimateFund,447387,11/13/2023,Carbon Credit Prep,FND0324,Partner Org,USD
+AG325,AgriDevBank,110995,2/22/2023,Farmer Training,FND0325,Regional Office,USD
+AG326,RegenFund,417648,12/16/2023,Water Conservation,FND0326,Regional Office,EUR
+AG327,GreenClimateFund,113687,4/13/2024,Carbon Credit Prep,FND0327,HQ,GBP
+AG328,RegenFund,127223,9/25/2024,Soil Health,FND0328,Partner Org,GBP
+AG329,EarthCapital,267438,9/8/2024,AgriTech Upgrade,FND0329,Partner Org,USD
+AG330,EcoFinance,259873,2/10/2023,Farmer Training,FND0330,Partner Org,USD
+AG331,NatureBank,152416,11/22/2023,AgriTech Upgrade,FND0331,HQ,GBP
+AG332,RegenFund,374734,8/28/2024,AgriTech Upgrade,FND0332,Partner Org,GBP
+AG333,RegenFund,424155,12/5/2023,Water Conservation,FND0333,HQ,USD
+AG334,RegenFund,270704,8/8/2023,AgriTech Upgrade,FND0334,HQ,GBP
+AG335,AgriDevBank,273489,5/13/2023,AgriTech Upgrade,FND0335,Partner Org,USD
+AG336,GreenClimateFund,138806,4/27/2024,Carbon Credit Prep,FND0336,Regional Office,GBP
+AG337,EcoFinance,234765,5/26/2023,Farmer Training,FND0337,HQ,GBP
+AG338,EcoFinance,456390,7/18/2024,Water Conservation,FND0338,Regional Office,GBP
+AG339,RegenFund,347643,1/8/2024,Farmer Training,FND0339,Partner Org,EUR
+AG340,AgriDevBank,346124,2/12/2024,Water Conservation,FND0340,Partner Org,GBP
+AG341,NatureBank,142891,9/22/2023,Carbon Credit Prep,FND0341,HQ,EUR
+AG342,NatureBank,301049,2/25/2024,Soil Health,FND0342,Partner Org,EUR
+AG343,GreenClimateFund,229139,11/17/2023,Water Conservation,FND0343,Partner Org,USD
+AG344,GreenClimateFund,274345,5/30/2024,Carbon Credit Prep,FND0344,Partner Org,EUR
+AG345,EcoFinance,310405,8/27/2024,Soil Health,FND0345,HQ,EUR
+AG346,NatureBank,367834,6/29/2024,Water Conservation,FND0346,Regional Office,GBP
+AG347,EarthCapital,333989,6/17/2024,AgriTech Upgrade,FND0347,HQ,EUR
+AG348,EcoFinance,110859,11/21/2024,Farmer Training,FND0348,Partner Org,USD
+AG349,EarthCapital,480209,4/21/2024,Farmer Training,FND0349,Partner Org,EUR
+AG350,RegenFund,468600,7/21/2023,Farmer Training,FND0350,HQ,GBP
+AG351,NatureBank,183768,1/7/2023,Carbon Credit Prep,FND0351,Regional Office,GBP
+AG352,NatureBank,268421,3/1/2023,Soil Health,FND0352,HQ,EUR
+AG353,NatureBank,101098,3/6/2024,Water Conservation,FND0353,Partner Org,EUR
+AG354,RegenFund,451796,3/25/2024,AgriTech Upgrade,FND0354,Regional Office,EUR
+AG355,AgriDevBank,197732,7/8/2023,Carbon Credit Prep,FND0355,Partner Org,EUR
+AG356,EcoFinance,476846,7/18/2024,AgriTech Upgrade,FND0356,HQ,GBP
+AG357,NatureBank,170884,3/26/2024,Farmer Training,FND0357,Regional Office,GBP
+AG358,RegenFund,473267,6/28/2024,Farmer Training,FND0358,HQ,GBP
+AG359,GreenClimateFund,208553,7/19/2024,Water Conservation,FND0359,HQ,USD
+AG360,NatureBank,216079,7/10/2023,Farmer Training,FND0360,Partner Org,EUR
+AG361,RegenFund,354393,4/18/2023,Soil Health,FND0361,Partner Org,USD
+AG362,GreenClimateFund,468265,11/20/2023,Carbon Credit Prep,FND0362,Partner Org,GBP
+AG363,GreenClimateFund,380807,11/4/2024,AgriTech Upgrade,FND0363,Partner Org,USD
+AG364,EcoFinance,458334,10/3/2023,Soil Health,FND0364,HQ,USD
+AG365,GreenClimateFund,383370,10/15/2024,Soil Health,FND0365,Partner Org,EUR
+AG366,NatureBank,151158,9/13/2023,Soil Health,FND0366,Regional Office,EUR
+AG367,RegenFund,330380,9/5/2023,Carbon Credit Prep,FND0367,Partner Org,USD
+AG368,AgriDevBank,232112,6/21/2023,Soil Health,FND0368,Partner Org,USD
+AG369,EarthCapital,387130,5/15/2023,AgriTech Upgrade,FND0369,HQ,USD
+AG370,RegenFund,328726,1/4/2024,Water Conservation,FND0370,Regional Office,USD
+AG371,NatureBank,267595,10/19/2024,Soil Health,FND0371,Partner Org,GBP
+AG372,GreenClimateFund,307917,1/12/2023,Farmer Training,FND0372,Partner Org,GBP
+AG373,NatureBank,118204,6/30/2023,AgriTech Upgrade,FND0373,Partner Org,GBP
+AG374,EarthCapital,190786,12/30/2023,Farmer Training,FND0374,Regional Office,GBP
+AG375,EarthCapital,188482,1/17/2023,AgriTech Upgrade,FND0375,Partner Org,USD
+AG376,EarthCapital,293048,11/28/2023,AgriTech Upgrade,FND0376,Regional Office,USD
+AG377,EarthCapital,333111,7/12/2024,Farmer Training,FND0377,HQ,USD
+AG378,AgriDevBank,454976,6/7/2023,Water Conservation,FND0378,HQ,USD
+AG379,NatureBank,275558,7/30/2024,Water Conservation,FND0379,HQ,USD
+AG380,AgriDevBank,122542,6/3/2023,Soil Health,FND0380,Regional Office,EUR
+AG381,EcoFinance,262477,11/6/2023,Soil Health,FND0381,HQ,USD
+AG382,RegenFund,116421,2/3/2024,Water Conservation,FND0382,Regional Office,GBP
+AG383,EarthCapital,214510,2/28/2023,Carbon Credit Prep,FND0383,HQ,USD
+AG384,GreenClimateFund,196621,10/16/2023,Farmer Training,FND0384,Partner Org,EUR
+AG385,GreenClimateFund,238923,10/22/2024,Carbon Credit Prep,FND0385,Regional Office,USD
+AG386,RegenFund,179586,11/30/2024,Carbon Credit Prep,FND0386,Regional Office,EUR
+AG387,GreenClimateFund,292321,9/5/2024,Carbon Credit Prep,FND0387,Regional Office,GBP
+AG388,RegenFund,235664,1/27/2024,AgriTech Upgrade,FND0388,Partner Org,EUR
+AG389,NatureBank,125059,10/6/2023,Carbon Credit Prep,FND0389,HQ,GBP
+AG390,RegenFund,365923,3/6/2023,Soil Health,FND0390,HQ,EUR
+AG391,RegenFund,173466,5/25/2024,Soil Health,FND0391,Partner Org,USD
+AG392,GreenClimateFund,280589,8/2/2024,AgriTech Upgrade,FND0392,Partner Org,EUR
+AG393,AgriDevBank,480210,7/9/2023,Farmer Training,FND0393,Partner Org,EUR
+AG394,RegenFund,272715,4/19/2023,Farmer Training,FND0394,Partner Org,GBP
+AG395,GreenClimateFund,234841,9/22/2023,AgriTech Upgrade,FND0395,Regional Office,EUR
+AG396,EarthCapital,250183,6/7/2024,Water Conservation,FND0396,Regional Office,EUR
+AG397,RegenFund,499367,11/4/2023,AgriTech Upgrade,FND0397,Regional Office,GBP
+AG398,EcoFinance,368681,10/12/2024,Farmer Training,FND0398,HQ,USD
+AG399,EarthCapital,172547,3/21/2023,AgriTech Upgrade,FND0399,Regional Office,EUR
+AG400,EarthCapital,175677,3/14/2024,Farmer Training,FND0400,Regional Office,USD
+AG401,NatureBank,185401,7/14/2024,Carbon Credit Prep,FND0401,Partner Org,EUR
+AG402,NatureBank,171634,10/12/2023,Carbon Credit Prep,FND0402,Partner Org,GBP
+AG403,EcoFinance,387416,11/29/2023,Farmer Training,FND0403,Partner Org,GBP
+AG404,RegenFund,357276,1/9/2023,AgriTech Upgrade,FND0404,HQ,EUR
+AG405,EarthCapital,499210,10/7/2024,Carbon Credit Prep,FND0405,Regional Office,GBP
+AG406,EarthCapital,106840,10/14/2024,Farmer Training,FND0406,HQ,USD
+AG407,RegenFund,347897,3/24/2024,Farmer Training,FND0407,Regional Office,USD
+AG408,RegenFund,462483,9/1/2024,Soil Health,FND0408,Partner Org,EUR
+AG409,AgriDevBank,436334,1/6/2023,Water Conservation,FND0409,Regional Office,GBP
+AG410,EarthCapital,293761,4/27/2023,AgriTech Upgrade,FND0410,HQ,EUR
+AG411,RegenFund,477799,4/26/2023,Carbon Credit Prep,FND0411,Partner Org,EUR
+AG412,EarthCapital,380337,4/30/2023,Farmer Training,FND0412,Regional Office,USD
+AG413,AgriDevBank,266617,9/12/2023,AgriTech Upgrade,FND0413,Regional Office,GBP
+AG414,GreenClimateFund,194664,6/3/2024,AgriTech Upgrade,FND0414,HQ,USD
+AG415,EarthCapital,291790,6/14/2024,Water Conservation,FND0415,HQ,USD
+AG416,AgriDevBank,239682,11/25/2024,AgriTech Upgrade,FND0416,Regional Office,GBP
+AG417,EarthCapital,116537,9/4/2023,Carbon Credit Prep,FND0417,Regional Office,GBP
+AG418,AgriDevBank,288121,12/16/2024,AgriTech Upgrade,FND0418,HQ,GBP
+AG419,GreenClimateFund,133474,10/2/2024,AgriTech Upgrade,FND0419,HQ,USD
+AG420,EarthCapital,496331,9/14/2024,AgriTech Upgrade,FND0420,HQ,GBP
+AG421,AgriDevBank,343684,4/10/2024,Carbon Credit Prep,FND0421,HQ,EUR
+AG422,AgriDevBank,328598,6/13/2024,Farmer Training,FND0422,Partner Org,EUR
+AG423,EarthCapital,317397,2/14/2024,Farmer Training,FND0423,Regional Office,GBP
+AG424,EcoFinance,164776,10/18/2023,Farmer Training,FND0424,HQ,USD
+AG425,NatureBank,106411,10/17/2023,Water Conservation,FND0425,Regional Office,EUR
+AG426,AgriDevBank,316824,3/9/2023,Water Conservation,FND0426,HQ,EUR
+AG427,EarthCapital,113041,5/2/2024,AgriTech Upgrade,FND0427,HQ,USD
+AG428,EcoFinance,344949,11/12/2024,Soil Health,FND0428,HQ,USD
+AG429,AgriDevBank,476513,5/28/2023,Carbon Credit Prep,FND0429,HQ,USD
+AG430,RegenFund,453843,6/25/2023,AgriTech Upgrade,FND0430,HQ,GBP
+AG431,AgriDevBank,223114,9/13/2024,AgriTech Upgrade,FND0431,Partner Org,GBP
+AG432,EcoFinance,110579,10/24/2024,Farmer Training,FND0432,HQ,EUR
+AG433,EcoFinance,244443,10/24/2024,Farmer Training,FND0433,Regional Office,GBP
+AG434,NatureBank,421122,10/25/2023,Soil Health,FND0434,Regional Office,EUR
+AG435,EarthCapital,129001,10/21/2024,Water Conservation,FND0435,HQ,EUR
+AG436,GreenClimateFund,432375,12/30/2024,Carbon Credit Prep,FND0436,HQ,EUR
+AG437,EcoFinance,472976,3/19/2024,AgriTech Upgrade,FND0437,HQ,USD
+AG438,NatureBank,487000,12/4/2023,AgriTech Upgrade,FND0438,Partner Org,EUR
+AG439,EarthCapital,205518,5/4/2024,AgriTech Upgrade,FND0439,HQ,GBP
+AG440,GreenClimateFund,444085,12/23/2023,Farmer Training,FND0440,Partner Org,GBP
+AG441,NatureBank,437832,3/8/2024,Farmer Training,FND0441,HQ,EUR
+AG442,RegenFund,138279,7/31/2024,Carbon Credit Prep,FND0442,Partner Org,USD
+AG443,GreenClimateFund,423600,10/21/2023,Carbon Credit Prep,FND0443,HQ,GBP
+AG444,AgriDevBank,379719,3/25/2024,Water Conservation,FND0444,Regional Office,GBP
+AG445,NatureBank,110968,12/11/2024,Carbon Credit Prep,FND0445,Regional Office,USD
+AG446,RegenFund,391422,5/14/2024,Water Conservation,FND0446,HQ,USD
+AG447,EarthCapital,130766,2/22/2023,Farmer Training,FND0447,Regional Office,USD
+AG448,NatureBank,299199,10/2/2024,Soil Health,FND0448,Regional Office,EUR
+AG449,EarthCapital,223062,1/29/2024,AgriTech Upgrade,FND0449,Partner Org,USD
+AG450,AgriDevBank,153461,8/25/2024,AgriTech Upgrade,FND0450,Regional Office,USD
+AG451,RegenFund,460771,9/15/2024,Farmer Training,FND0451,HQ,EUR
+AG452,EcoFinance,169055,4/1/2024,Water Conservation,FND0452,Regional Office,EUR
+AG453,EarthCapital,433563,6/18/2023,Farmer Training,FND0453,HQ,USD
+AG454,GreenClimateFund,410020,11/22/2024,Soil Health,FND0454,Partner Org,USD
+AG455,RegenFund,136931,2/14/2024,Carbon Credit Prep,FND0455,Regional Office,GBP
+AG456,GreenClimateFund,138352,7/14/2023,AgriTech Upgrade,FND0456,Partner Org,USD
+AG457,GreenClimateFund,331534,5/13/2024,AgriTech Upgrade,FND0457,Partner Org,EUR
+AG458,RegenFund,379882,11/22/2024,AgriTech Upgrade,FND0458,Partner Org,USD
+AG459,RegenFund,211615,10/7/2024,Farmer Training,FND0459,Regional Office,GBP
+AG460,EarthCapital,160294,8/2/2024,AgriTech Upgrade,FND0460,Partner Org,EUR
+AG461,NatureBank,309239,7/23/2024,AgriTech Upgrade,FND0461,Regional Office,USD
+AG462,EcoFinance,210249,7/25/2024,AgriTech Upgrade,FND0462,Regional Office,GBP
+AG463,NatureBank,168488,9/10/2024,Carbon Credit Prep,FND0463,HQ,GBP
+AG464,RegenFund,137807,12/24/2024,Water Conservation,FND0464,Regional Office,GBP
+AG465,NatureBank,215382,4/7/2023,Farmer Training,FND0465,HQ,EUR
+AG466,EarthCapital,309562,2/1/2024,Soil Health,FND0466,Regional Office,EUR
+AG467,GreenClimateFund,439550,4/16/2024,Carbon Credit Prep,FND0467,Regional Office,EUR
+AG468,NatureBank,221578,5/27/2024,AgriTech Upgrade,FND0468,HQ,GBP
+AG469,AgriDevBank,203543,9/7/2023,Soil Health,FND0469,Partner Org,GBP
+AG470,EarthCapital,161832,10/17/2023,Water Conservation,FND0470,HQ,EUR
+AG471,GreenClimateFund,315970,3/20/2023,Soil Health,FND0471,Regional Office,EUR
+AG472,EarthCapital,330431,7/24/2024,Farmer Training,FND0472,Partner Org,USD
+AG473,AgriDevBank,388627,4/19/2024,AgriTech Upgrade,FND0473,Partner Org,GBP
+AG474,EcoFinance,414198,3/12/2023,Farmer Training,FND0474,HQ,EUR
+AG475,NatureBank,219453,5/20/2023,AgriTech Upgrade,FND0475,Regional Office,GBP
+AG476,EarthCapital,269108,2/3/2024,AgriTech Upgrade,FND0476,Regional Office,GBP
+AG477,GreenClimateFund,317533,1/7/2024,Water Conservation,FND0477,HQ,EUR
+AG478,GreenClimateFund,230880,8/8/2023,Soil Health,FND0478,HQ,EUR
+AG479,RegenFund,316450,5/6/2023,Soil Health,FND0479,HQ,GBP
+AG480,EcoFinance,308544,2/24/2024,Carbon Credit Prep,FND0480,Regional Office,EUR
+AG481,RegenFund,319849,3/8/2023,Soil Health,FND0481,HQ,USD
+AG482,EcoFinance,253591,7/23/2023,Farmer Training,FND0482,Regional Office,EUR
+AG483,GreenClimateFund,380759,4/27/2024,Carbon Credit Prep,FND0483,Regional Office,USD
+AG484,AgriDevBank,487812,10/16/2023,AgriTech Upgrade,FND0484,HQ,EUR
+AG485,AgriDevBank,317925,3/27/2024,Farmer Training,FND0485,Regional Office,GBP
+AG486,EarthCapital,213422,7/26/2023,Carbon Credit Prep,FND0486,HQ,EUR
+AG487,AgriDevBank,441145,1/29/2024,Soil Health,FND0487,Partner Org,EUR
+AG488,AgriDevBank,474859,1/8/2024,Carbon Credit Prep,FND0488,HQ,GBP
+AG489,EcoFinance,244254,5/19/2024,AgriTech Upgrade,FND0489,HQ,EUR
+AG490,AgriDevBank,371250,4/28/2023,AgriTech Upgrade,FND0490,HQ,GBP
+AG491,EcoFinance,468537,7/1/2023,AgriTech Upgrade,FND0491,Regional Office,USD
+AG492,AgriDevBank,296066,5/10/2023,Farmer Training,FND0492,HQ,GBP
+AG493,EcoFinance,443168,4/15/2023,Farmer Training,FND0493,HQ,USD
+AG494,EcoFinance,312608,11/24/2023,AgriTech Upgrade,FND0494,Regional Office,EUR
+AG495,RegenFund,475173,10/4/2023,Water Conservation,FND0495,Partner Org,GBP
+AG496,AgriDevBank,250116,3/6/2023,AgriTech Upgrade,FND0496,Regional Office,EUR
+AG497,EarthCapital,256634,4/10/2024,Carbon Credit Prep,FND0497,HQ,EUR
+AG498,RegenFund,252485,8/23/2024,Carbon Credit Prep,FND0498,HQ,USD
+AG499,RegenFund,350593,5/2/2023,Water Conservation,FND0499,Partner Org,USD
+AG500,EcoFinance,445844,9/6/2024,Farmer Training,FND0500,HQ,USD
