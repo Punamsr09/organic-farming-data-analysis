@@ -2,7 +2,7 @@
 ### Created an ETL pipeline workflow overview
 ### Overview
 
-This project is part of my journey to design an end-to-end data flow by creating an ETL pipeline that can handle agricultural, ecological, and funding data for sustainability and carbon-credit-focused initiatives. The goal is to bring together data from different sources — such as field activity reports, carbon monitoring logs, and project funding details — and convert them into clean, consistent, and insightful datasets ready for analysis.
+This project is part of my journey to design an end-to-end data flow by creating an ETL pipeline that can handle agricultural, ecological, and funding data for sustainability and carbon-credit-focused initiatives. The goal is to bring together data from different sources, such as field activity reports, carbon monitoring logs, and project funding details, and convert them into clean, consistent, and insightful datasets ready for analysis.
 
 The system I built follows a classic **ETL (Extract → Transform → Load)** pipeline. It extracts raw data from multiple files (CSV and JSON), applies transformations to calculate key performance metrics like `carbon_gain_tCO2e`, and loads everything into a structured MySQL database. Once in the database, the data can be used for reporting, visualization, or decision-making support.
 
@@ -10,7 +10,7 @@ The system I built follows a classic **ETL (Extract → Transform → Load)** pi
 
 #### Why I Built This
 
-In sustainability projects, data often lives in silos — spreadsheets from field officers, monitoring data from IoT sensors, and separate systems for funding and finance. I wanted to build something that brings all of that together into a single, consistent structure.
+In sustainability projects, data often lives in silos, spreadsheets from field officers, monitoring data from IoT sensors, and separate systems for funding and finance. I wanted to build something that brings all of that together into a single, consistent structure.
 
 The main idea was to create a **reproducible and scalable data workflow** that can:
 - Reduce manual data entry and cleaning time
